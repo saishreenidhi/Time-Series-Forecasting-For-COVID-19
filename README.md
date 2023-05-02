@@ -37,7 +37,7 @@ While running on Colab, make sure you import the dataset.
 
 ## Sources
 
- - [Dataset]https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset)
+ - [Dataset](https://www.kaggle.com/datasets/sudalairajkumar/novel-corona-virus-2019-dataset)
 
 
 ## License
